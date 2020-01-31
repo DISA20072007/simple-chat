@@ -1,0 +1,33 @@
+<resources>
+    <string name="message_text_hint">Введите сообщение...</string>
+    <string name="authorization_success_message">Авторизация успешна.</string>
+    <string name="authorization_error_message">Ошибка авторизации. Пожалуйста, попробуйте снова.</string>
+    <string name="groups">Группы</string>
+    <string name="contacts">Контакты</string>
+    <string name="sign_out">Выйти</string>
+    <string name="add_group">Добавить новую группу</string>
+    <string name="add_contact">Добавить новый контакт</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="exit">Выйти</string>
+    <string name="name">Имя:</string>
+    <string name="private_group">Частная:</string>
+    <string name="members">Участники:</string>
+    <string name="save">Сохранить</string>
+    <string name="chat">Чат</string>
+    <string name="delete_group_warning">Вы действительно хотите удалить эту группу?</string>
+    <string name="exit_group_warning">Вы действительно хотите выйти из группы?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete_contact_warning">Вы действительно хотите удалить этот контакт?</string>
+    <string name="duplicate_contact_username_error">Вы не можете добавить себя в ваш список контактов!</string>
+    <string name="exist_contact_username_error">Ваш список контактов уже содержит добавляемый контакт!</string>
+    <string name="contact_not_registered">Контакт не зарегистрирован с этим email!</string>
+    <string name="token_is_empty">Токен пустой!</string>
+    <string name="loading">Загрузка</string>
+    <string name="waiting_message">Пожалуйста, подождите…</string>
+    <string name="invalid_email">Адрес электронной почты некоректный!</string>
+    <string name="group_name_is_empty">Наименование группы должно быть заполнено!</string>
+    <string name="private_group_name_forbidden">Запрещено использовать \"%s\" в названии группы!</string>
+</resources>
